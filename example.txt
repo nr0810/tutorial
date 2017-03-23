@@ -3,7 +3,8 @@
 	<title>git example</title>
 	</head>
 	<body>
-	<p>sss</p>	<p>narad	
+	<p>sss</p>
+	<p>nara</P>
 	</body>
 
 </html>
